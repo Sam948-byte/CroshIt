@@ -18,7 +18,7 @@ rm -rf cgbbbjmgdpnifijconhamggjehlamcif/*
 chmod 000 cgbbbjmgdpnifijconhamggjehlamcif
 
 #Securly
-rm -rf joflmkccibkooplaeoinecjbmdebglab
+rm -rf joflmkccibkooplaeoinecjbmdebglab/*
 
 chmod 000 joflmkccibkooplaeoinecjbmdebglab
 
